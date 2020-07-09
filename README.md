@@ -1,4 +1,4 @@
-# toga-file-manager
+# file-manager
 
 ## Classes:
 
